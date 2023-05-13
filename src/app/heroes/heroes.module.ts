@@ -6,11 +6,11 @@ import { CommonModule } from "@angular/common";
 @NgModule({
   declarations: [
     HeroComponent,
-    ListComponent
+    ListComponent,
   ],
   exports: [
     HeroComponent,
-    ListComponent
+    ListComponent,
   ],
   imports:[
     CommonModule
